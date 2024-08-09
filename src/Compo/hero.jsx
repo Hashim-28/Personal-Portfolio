@@ -8,7 +8,7 @@ const Hero = () =>{
                 <a href="#contact"><button>Get in touch</button></a>
             </div>
             <div id="me">
-                <img src="/pics/me.jpg" alt="me" />
+                <img src="/pics/me-1.jpg" alt="me" />
             </div>
         </div>
     )

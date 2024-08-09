@@ -12,7 +12,7 @@ const Project = () => {
                     <img src="/pics/gym.png" alt="gym" />
                     <h2>Gym Managment</h2>
                     <p>Efficient Gym Management System for scheduling, member management, and payment tracking, streamlining operations and enhancing user experience.</p>
-                    <a href=""><button> Visit In Github <img src="/pics/upa.png" alt="up-Right-Arrow" /></button> </a>
+                    <a href="https://github.com/Hashim-28/Project-5"><button> Visit In Github <img src="/pics/upa.png" alt="up-Right-Arrow" /></button> </a>
                 </div>
                 <div id="reg">
                     <img src="/pics/meta.png" alt="meta" />
